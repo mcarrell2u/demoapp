@@ -1,2 +1,2 @@
 # demoapp
-![alt text](Coco.jpg)
+![alt text](Coco.JPG)
